@@ -22,3 +22,11 @@ li {
 #count-down {
   text-align: center;
 }
+
+.guessArea {
+  padding-bottom: 25px;
+  margin-bottom: 5px;
+  width: 50%;
+  border: 1px solid black;
+  display: block;
+}
