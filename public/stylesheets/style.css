@@ -6,3 +6,19 @@ body {
 a {
   color: #00B7FF;
 }
+
+#modalList {
+  list-style: none;
+}
+
+li {
+  list-style: none;
+}
+
+.modal-title {
+  text-align: center;
+}
+
+#count-down {
+  text-align: center;
+}
